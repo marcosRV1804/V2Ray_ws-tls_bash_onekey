@@ -4,8 +4,8 @@
 
 > Thanks for non-commercial open source development authorization by JetBrains
 ### Telegram 群组
-* telegram 交流群:https://t.me/wulabing_v2ray 
-* telegram 更新公告频道：https://t.me/wulabing_channel
+* darckMR 交流群:marcosRV
+* contacto 更新公告频道： 1156383729
 
 ### 准备工作
 * 准备一个域名，并将A记录添加好。
